@@ -1,0 +1,38 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Aa][Rr][Mm]/
+bin/
+obj/
+out/
+packages/
+
+# NuGet
+*.nupkg
+*.nuspec
+
+# Otros archivos temporales
+*.log
+*.tmp
+*.bak
+*.cache
+*.pdb
+*.dbmdl
+*.dbproj.schemaview
+
+# Archivos generados por el compilador
+*.dll
+*.exe
+*.class
+*.pdb
+*.app
+
+# Archivos de configuración
+*.json
+*.xml
