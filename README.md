@@ -1,2 +1,9 @@
 # Datos-I---Proyecto-II-
-PROYECTO II  TinySQLDb  Instituto Tecnológico de Costa Rica  Escuela de Ingeniería en Computadores  Algoritmos y Estructuras de Datos I (CE 1103)  II Semestre 2024
+PROYECTO II  
+TinySQLDb  
+Instituto Tecnológico de Costa Rica  
+Escuela de Ingeniería en Computadores  
+Algoritmos y Estructuras de Datos I (CE 1103)  
+II Semestre 2024
+
+Version de Visual Estudio 2022: 17.10
